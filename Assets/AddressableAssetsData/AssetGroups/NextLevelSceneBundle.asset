@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: NextLevelSceneBundle
+  m_EditorClassIdentifier: 
+  m_GroupName: NextLevelSceneBundle
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5e3e1dbfdee98ec44a82564802c99296
+  m_SerializeEntries:
+  - m_GUID: 15e153e15458c5e489bc0ebfba0d52e3
+    m_Address: Level1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NextLevelSceneBundle
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 98f40cde53d66d1498c198d927a7ce51, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 57b56228bdde0914d92b74f9f166c0e0, type: 2}
+    - {fileID: 11400000, guid: d46f010c4f766b94db639ef409d616d7, type: 2}
+    - {fileID: 11400000, guid: d7f56857e59f0ce4cbed2aa8f0395bd5, type: 2}
